@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
- The following images depict karbytes' latest excursion to (east) Dublin/Pleasanton BART station parking garage in California (as of 11:59PM Pacific Standard Time on 28_JANUARY_2024):
+ The following images depict karbytes' latest excursion to the (east) Dublin/Pleasanton BART station parking garage (as of 11:59PM Pacific Standard Time on 28_JANUARY_2024):
 
  https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/east_dublin_bart_station_sunset_28jan2024.jpg
 

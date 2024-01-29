@@ -5,6 +5,7 @@
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
+
 I built a pyramid.
 
 The pyramid is infinitely tall.

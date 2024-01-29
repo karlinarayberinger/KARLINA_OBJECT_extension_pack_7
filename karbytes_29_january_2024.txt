@@ -5,7 +5,6 @@
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
-
 I built a pyramid.
 
 The pyramid is infinitely tall.
@@ -18,6 +17,24 @@ The "poem" above was written by karbytes at approximately 10:00AM Pacific Standa
 
 The "poem" is meant to depict a pyramid-shaped structure whose base is rectangular and whose four triangular walls converge at a single point at the top of the prism. 
 
-That point at the top represents my local vantage as an individual sentient information processing agent (or, perhaps more precisely, the particular "timeless slice" along the particular (and what appears to be solipsistic from my vantage) space-time continuum in which I observe present-moment phenomena. 
+That point at the top represents my local vantage as an individual sentient information processing agent (or, perhaps more precisely, the particular "timeless slice" along the particular (and what appears to be solipsistic from my vantage) space-time continuum in which I observe present-moment phenomena). 
 
-The "pyramid" is mentally visualized by karbytes as growing from the top downward such that, for infinitely many "cycles", a rectangular layer is augmented to the bottom of that pyramid. The cone-shaped expansion metaphorically depicts my consciousness (and collection of memorized knowledge (whether in my original organic nervous system and/or in some kind of external data recording media) becoming increasingly less limited in terms of comprehensiveness, pattern-recognition sophistication, and ability to control physical reality I expect (or at least hope) to become always more of.
+The "pyramid" is mentally visualized by karbytes as growing from the top downward such that, for infinitely many karbytes' computational "cycles", a rectangular layer is augmented to the bottom of that pyramid. 
+
+The aforementioned cone-shaped expansion metaphorically depicts my consciousness (and collection of memorized knowledge (which is physically substantiated by my original (human(oid)) organic nervous system or by some kind of external data recording media which is activated by some kind of interpreting computational device)) becoming increasingly less limited in terms of data comprehensiveness, pattern-recognition sophistication, and ability to control the physical reality I appear to myself to be inhabiting expect (or at least hope) as time elapses inside of my first-person rendering of physical (and virtual) reality.
+
+* * *
+
+The following images depict karbytes' use of the Amazon A to Z smartphone application (which is part of karbytes' employment with Amazon as a part-time FLEX delivery station associate (particularly for during the past three months)) (as of 11:59PM Pacific Standard Time on 29_JANUARY_2024):
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/amazon_atoz_attendance_points_29jan2024_p0.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/amazon_atoz_attendance_points_29jan2024_p1.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/amazon_atoz_attendance_points_29jan2024_p2.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/amazon_atoz_schedule_29jan2024_p0.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/amazon_atoz_schedule_29jan2024_p1.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/amazon_atoz_schedule_29jan2024_p2.jpg

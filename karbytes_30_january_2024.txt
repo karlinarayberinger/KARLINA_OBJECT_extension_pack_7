@@ -1,15 +1,21 @@
-t
+/**
+ * file: karbytes_30_january_2024.txt
+ * type: plain-text
+ * date: 30_JANUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
-// Brea photos and Nature photos (include other Cats as well)
+The following screenshot images depict karbytes using ChatGPT (version 4) to generate descriptions of various images which karbytes' uploaded (which occcurred within the past two days as of 11:59PM Pacific Standard Time on 30_JANUARY_2024):
 
-[item_0]
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_image_input_29_january_2024_part_0.png
 
-// Violence examples to not repeat (but to learn from) (videos from the World Wide Web)
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_image_input_29_january_2024_part_1.png
 
-[item_0]
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_image_input_29_january_2024_part_2.png
 
-[iten_1] (reddit about getting beat up)
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_image_input_29_january_2024_part_3.png
 
-* * *
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_image_input_30_january_2024_part_0.png
 
-// I have found it to be personally useful to imagine that I am always in the midst of accomplishing some grand and noble (and inspiring) agenda which has been planned and executed (and refined) for many successive past lives (in linear solipsistic succession).
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_image_input_30_january_2024_part_1.png

@@ -8,14 +8,14 @@
 
 The following screenshot images depict karbytes using ChatGPT (version 4) to generate descriptions of various images which karbytes' uploaded (which occcurred within the past two days as of 11:59PM Pacific Standard Time on 30_JANUARY_2024):
 
-https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_image_input_29_january_2024_part_0.png
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_and_karbytes_29_january_2024_part_0.png
 
-https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_image_input_29_january_2024_part_1.png
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_and_karbytes_29_january_2024_part_1.png
 
-https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_image_input_29_january_2024_part_2.png
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_and_karbytes_29_january_2024_part_2.png
 
-https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_image_input_29_january_2024_part_3.png
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_and_karbytes_29_january_2024_part_3.png
 
-https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_image_input_30_january_2024_part_0.png
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_and_karbytes_30_january_2024_part_0.png
 
-https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_image_input_30_january_2024_part_1.png
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_and_karbytes_30_january_2024_part_1.png

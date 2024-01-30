@@ -1,6 +1,4 @@
-t
-
-// Brea photos and Nature photos
+// Brea photos and Nature photos (include other Cats as well)
 
 [item_0]
 
@@ -13,3 +11,4 @@ t
 * * *
 
 // I have found it to be personally useful to imagine that I am always in the midst of accomplishing some grand and noble (and inspiring) agenda which has been planned and executed (and refined) for many successive past lives (in linear solipsistic succession).
+

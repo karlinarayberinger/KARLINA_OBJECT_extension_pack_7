@@ -19,3 +19,17 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_and_karbytes_30_january_2024_part_0.png
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_and_karbytes_30_january_2024_part_1.png
+
+* * *
+
+The following five images pertain to karbytes asking ChatGPT-4 to analyze web page data and ChatGPT-4 being unable to open hyperlinks which are indirectly referenced (i.e. not displayed on the web page of a given URL but, instead, on a web page which is referenced via a hyperlink on a given URL) and, also, ChatGPT-4 being unable to decipher the text which is part of the uploaded image displayed on the web page named MINDS_KARBYTES_2020_IMAGE_0 of the website named Karbytes For Life Blog dot WordPress dot Com (allegedly as a result of the text in that image being too small for ChatGPT-4 to read):
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_and_karbytes_30_january_2024_part_2.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_and_karbytes_30_january_2024_part_3.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_and_karbytes_30_january_2024_part_4.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/chatgpt_and_karbytes_30_january_2024_part_5.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/minds_karbytes_april_2020.jpg

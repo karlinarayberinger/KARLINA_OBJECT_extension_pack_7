@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_01_february_2024.txt
+ * type: plain-text
+ * date: 01_FEBRUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 For approximately one year (especially while walking along the segment of Redwood Road which borders Redwood Canyon Golf Course on my way to and from Ramage Peak trail), I have had the following "controversial" thoughts: 
 

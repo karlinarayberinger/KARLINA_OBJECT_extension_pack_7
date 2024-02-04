@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_03_february_2024.txt
+ * type: plain-text
+ * date: 03_FEBRUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 The political party I am a registered member of is the Green Party (and I am exclusively a citizen of the United States of America). 
 
